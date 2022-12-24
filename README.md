@@ -1,16 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Ali salih</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ali salih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali salih" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ali swalih" target="blank"><img align="center" src="hackerrank" alt="ali swalih" height="30" width="40" /></a>
-</p>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ali-salih-9b6ba8237/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-[![LinkedIn Badge](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.linkedin.com/in/ali-salih-9b6ba8237/)
-[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
+<div id="badges" align="center">
+  
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ali-salih-9b6ba8237/)
+[![HackerRank Badge](https://img.shields.io/badge/-hackerrank-00EA64?style=for-the-badge&labelColor=black&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/kvaliswalihtnl)
 
 </div>
 
